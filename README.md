@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**aadya940/aadya940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Aadya, I'm majorly interested in Mathematical Applications of Programming. My tech stack majorly comprises of Python 🐍, Cython, C (Basic), Numerical PyData Libraries (Numpy, SciPy, sklearn, Matplotlib, Seaborn, Keras, Tensorflow, Pytorch and Many More ...). I was previously working at [Unify AI](https://unify.ai/) as a Machine Learning Engineer Intern on their Python Transpiler API. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Personal Projects
+
+If you would like to check out my work, Please check the [chainopy](https://github.com/aadya940/chainopy) project. 
+ChainoPy is a python package for Markov Chain Analysis and Markov Chain Neural Networks.
+
+### Extra's
+
+I've also served as a Peer Tutor in the course `Stochastic Processes`, tutoring students on topics like Markov Chain Monte Carlo Algorithms, Probability Theory etc.
+I've also experimented with Various Deep Learning Models like U-Nets, U-Net++, Alexnet etc. 
+
+### Contact Info.
+
+Email: aadyachinubhai@gmail.com
