@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Aadya, I'm majorly interested in Mathematical Applications of Programming. My tech stack majorly comprises of Python 🐍, Cython, C (Basic), Numerical PyData Libraries (Numpy, SciPy, sklearn, Matplotlib, Seaborn, Keras, Tensorflow, Pytorch and Many More ...) and other tools like Github Actions (CI/CD), Pytest (Testing), Makefile and gcc. I was previously working at [Unify AI](https://unify.ai/) as a Machine Learning Engineer Intern on their Python Transpiler API. I'll also be taking part in GSoC 2024 with organization NumFOCUS.
+I am Aadya, I'm majorly interested in Mathematical Applications of Programming. My tech stack majorly comprises of Python 🐍, Cython, C, Numerical PyData Libraries (Numpy, SciPy, sklearn, Matplotlib, Seaborn, Keras, Tensorflow, Pytorch and Many More ...) and other tools like Github Actions (CI/CD), Pytest (Testing), Makefile and gcc. I was previously working at [Unify AI](https://unify.ai/) as a Machine Learning Engineer Intern on their Python Transpiler API. I'll also be taking part in GSoC 2024 with organization NumFOCUS.
 
 
 ### Personal Projects
