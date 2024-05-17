@@ -6,7 +6,7 @@ I am Aadya, I'm majorly interested in Mathematical Applications of Programming. 
 ### Personal Projects
 
 If you would like to check out my work, Please check the [chainopy](https://github.com/aadya940/chainopy) project. 
-ChainoPy is a python package for Markov Chain Analysis and Markov Chain Neural Networks.
+ChainoPy is a python package for Markovian Stochastic Analysis.
 
 ### Extra's
 
