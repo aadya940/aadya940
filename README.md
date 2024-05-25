@@ -2,7 +2,7 @@
 
 ## Introduction
 Hi there 👋  
-I am Aadya, and I am majorly interested in the Mathematical Applications of Programming.
+I am Aadya, and I am majorly interested in the Mathematics, Programming, building toolchains and libraries.
 
 ## Tech Stack
 - **Languages:** Python 🐍, Cython, C
@@ -13,7 +13,7 @@ I am Aadya, and I am majorly interested in the Mathematical Applications of Prog
 
 ## Experience
 - **Google Summer of Code 2024:** Participating with the organization NumFOCUS.
-- **Machine Learning Engineer Intern at Unify AI:** Worked on their Python Transpiler API.
+- **ML Engineer Intern at Unify AI:** Worked on their Python Transpiler API.
 
 ## Personal Projects
 - **ChainoPy:** A Python package for Markovian Stochastic Analysis. [Check out the project](https://github.com/aadya940/chainopy)
