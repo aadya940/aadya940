@@ -2,7 +2,7 @@
 
 ## Introduction
 Hi there 👋  
-I am Aadya, and I am majorly interested in the Mathematics, Programming, building toolchains and libraries.
+I am Aadya, and I am majorly interested in the Mathematics, Programming, building toolchains and libraries that matter.
 
 ## Tech Stack
 - **Languages:** Python 🐍, Cython, C
