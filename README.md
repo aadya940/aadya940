@@ -10,6 +10,8 @@ I am Aadya, and I am majorly interested in the Mathematics, Programming, buildin
 - **CI/CD:** Github Actions
 - **Testing:** Pytest
 - **Build Tools:** Makefile, gcc
+- **App development:** Kivy, KivyMD, Buildozer
+- **Databases:** SQLite
 
 ## Experience
 - **Google Summer of Code 2024:** Participating with the organization NumFOCUS.
