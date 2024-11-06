@@ -28,5 +28,8 @@ I am Aadya, and I am majorly interested in the Mathematics, Programming, buildin
 - **Peer Tutor for Stochastic Processes:** Tutored students on topics like Markov Chain Monte Carlo Algorithms, Probability Theory, etc.
 - **Deep Learning Models:** Experimented with various models including U-Nets, U-Net++, Alexnet, etc.
 
+### Other Contributions
+SciPy: Implemented `scipy.special.softplus` [Check out the PR](https://github.com/scipy/scipy/pull/18605).
+
 ## Contact Info
 - **Email:** [aadyachinubhai@gmail.com](mailto:aadyachinubhai@gmail.com)
