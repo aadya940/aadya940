@@ -11,7 +11,7 @@ Fluent in Python, C, C++ with strong Computer Science Fundamentals.
 
 Ex-Google Summer of Code @ NumFOCUS.
 
-Looking for Summer 2026 Internships in the United States.
+Looking for Summer 2026 Internships.
 
 ## Contact Info
 - **Email:** [aadyachinubhai@gmail.com](mailto:aadyachinubhai@gmail.com)
