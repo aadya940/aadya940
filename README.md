@@ -8,8 +8,7 @@ I'm passionate about building tools that matter. My interests span Machine Learn
 
 - Ex-Google Summer of Code @ [NumFOCUS](https://github.com/numfocus).
 - Maintainer @ [aeon-toolkit](https://github.com/aeon-toolkit/aeon).
-- Incoming SWE Intern @ [Quansight](https://github.com/quansight) with work focused on the internals of the
-NumPy project.
+- Incoming SWE Intern @ [Quansight](https://github.com/quansight).
 
 
 ## Contact Info
