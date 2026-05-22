@@ -16,5 +16,7 @@ Here are some projects I'm proud of:
 - [native-layer](https://github.com/aadya940/native-layer) : Call C/C++/Rust code as LLM tools without writing bindings using C ABI
 - [autoResume](https://github.com/aadya940/autoresume) : Open Source career agent for writing resumes using Harvard Guidelines and use unsupervised learning to find you relevant jobs
 
+I like going to Hackathons, going to the Gym, playing Soccer, travelling and Cooking. 
+
 ## Contact Info
 - **Email:** [aadyachinubhai@gmail.com](mailto:aadyachinubhai@gmail.com)
