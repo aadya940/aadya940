@@ -8,7 +8,7 @@ I'm passionate about building tools that matter. My interests span Machine Learn
 
 - Ex-Google Summer of Code @ [NumFOCUS](https://github.com/numfocus).
 - Maintainer @ [aeon-toolkit](https://github.com/aeon-toolkit/aeon).
-- Incoming SWE Intern @ [Quansight](https://github.com/quansight).
+- Incoming SWE Intern @ [Quansight](https://github.com/quansight) working on SciPy B-Splines.
 
 Here are some projects I'm proud of:
 - [orbit-ui](https://github.com/aadya940/orbit-ui) : N8N for Computer Use Agents
