@@ -11,7 +11,7 @@ I'm passionate about building tools that matter. My interests span Machine Learn
 - Incoming SWE Intern @ [Quansight](https://github.com/quansight) working on SciPy B-Splines.
 
 Here are some projects I'm proud of:
-- [orbit-ui](https://github.com/aadya940/orbit-ui) : N8N for Computer Use Agents
+- [orbit-ui](https://github.com/aadya940/orbit-ui) : n8n for Computer Use Agents
 - [chainopy](https://github.com/aadya940/chainopy) : A Python Library for Markov Chain based Stochastic Analysis
 - [native-layer](https://github.com/aadya940/native-layer) : Call C/C++/Rust code as LLM tools without writing bindings using C ABI
 - [autoResume](https://github.com/aadya940/autoresume) : Open Source career agent for writing resumes using Harvard Guidelines and use unsupervised learning to find you relevant jobs
