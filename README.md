@@ -3,9 +3,10 @@
 M.S. Computer Science
 Santa Clara University
 
-## Interests
 
 ```
+INTERESTS
+---------
 developer tools
 systems software
 open source
@@ -14,32 +15,32 @@ operating systems
 scientific computing
 ```
 
-## Languages
-
 ```
+LANGUAGES
+---------
 Python
 C
 C++
 ```
 
-## Current
-
 ```
+WORK
+----
 Maintainer, aeon-toolkit
 Incoming SWE Intern, Quansight
 Working on the SciPy project (https://github.com/scipy/scipy) as an Intern at Quansight
 ```
 
-## Previous
-
 ```
+PREVIOUS
+--------
 Google Summer of Code, NumFOCUS (https://github.com/aeon-toolkit/aeon)
 SWE Intern @ Unify (contributed to https://github.com/unifyai/ivy)
 ```
 
-## Off Hours
-
 ```
+OFF-HOURS
+---------
 hackathons
 soccer
 gym
@@ -47,5 +48,5 @@ cooking
 ```
 
 ```
-Email me at: aadyachinubhai@gmail.com
+Email me at: aadyachinubhai@gmail.com (No marketing stuff pls)
 ```
