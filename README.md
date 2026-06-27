@@ -25,8 +25,8 @@ C++
 
 WORK
 ----
-Maintainer, aeon-toolkit
-Incoming SWE Intern, Quansight
+Maintainer, aeon-toolkit (https://github.com/aeon-toolkit/aeon)
+SWE Intern, Quansight
 Working on the SciPy project (https://github.com/scipy/scipy) as an Intern at Quansight
 
 
