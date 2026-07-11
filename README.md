@@ -27,7 +27,7 @@ WORK
 ----
 Maintainer, aeon-toolkit (https://github.com/aeon-toolkit/aeon)
 SWE Intern, Quansight
-Working on the SciPy project (https://github.com/scipy/scipy) as an Intern at Quansight
+Working on the SciPy project (https://github.com/scipy/scipy) as an Intern at Quansigh. My work is related to interpolation and spline fitting.
 
 
 PREVIOUS
