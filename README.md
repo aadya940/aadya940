@@ -2,8 +2,7 @@
 AADYA
 -----
 
-M.S. Computer Science
-Santa Clara University
+M.S. Computer Science Student @ Santa Clara University
 
 
 INTERESTS
