@@ -21,4 +21,5 @@ Occasionally contributed to other OSS tools like NumPy etc.
 
 Python · C · C++
 
-aadyachinubhai@gmail.com```
+aadyachinubhai@gmail.com
+```
