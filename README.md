@@ -1,3 +1,4 @@
+```
 AADYA
 -----
 M.S. Computer Science @ Santa Clara University (grad [June/July] 2027)
@@ -35,3 +36,4 @@ OFF-HOURS
 hackathons, soccer, gym, cooking
 
 aadyachinubhai@gmail.com (no marketing pls)
+```
