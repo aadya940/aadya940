@@ -1,46 +1,37 @@
-```
 AADYA
 -----
+M.S. Computer Science @ Santa Clara University (grad [June/July] 2027)
+Looking for 2027 new-grad SWE roles: scientific computing, systems, developer tools.
 
-M.S. Computer Science Student @ Santa Clara University
+
+NOW
+---
+SciPy triage team (https://github.com/scipy/scipy)
+Maintainer, aeon: time-series ML toolkit (https://github.com/aeon-toolkit/aeon)
+Author, scikit-verify: checks numerical Python code against its math
+  (https://github.com/aadya940/scikit-verify, in review at JMLR MLOSS)
 
 
-INTERESTS
----------
-developer tools
-systems software
-open source
-machine learning
-operating systems
-scientific computing
+PREVIOUSLY
+----------
+SWE Intern, Quansight: SciPy internals (interpolation, spline fitting)
+SWE Intern, Unify (YC W23): contributed to ivy (https://github.com/unifyai/ivy)
+Google Summer of Code, NumFOCUS: aeon
+
+
+ALSO
+----
+Contributor to NumPy and Point72/csp
+Paper: [JOSS title] (link)
 
 
 LANGUAGES
 ---------
-Python
-C
-C++
-
-
-WORK
-----
-Maintainer, aeon-toolkit (https://github.com/aeon-toolkit/aeon)
-SWE Intern, Quansight
-Working on the SciPy project (https://github.com/scipy/scipy) as an Intern at Quansigh. My work is related to interpolation and spline fitting.
-
-
-PREVIOUS
---------
-Google Summer of Code, NumFOCUS (https://github.com/aeon-toolkit/aeon)
-SWE Intern @ Unify (contributed to https://github.com/unifyai/ivy)
+Python, C, C++
 
 
 OFF-HOURS
 ---------
-hackathons
-soccer
-gym
-cooking
+hackathons, soccer, gym, cooking
 
-Email me at: aadyachinubhai@gmail.com (No marketing stuff pls)
-```
+aadyachinubhai@gmail.com (no marketing pls)
