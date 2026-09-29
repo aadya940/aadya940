@@ -2,7 +2,6 @@
 AADYA
 -----
 MS CS @ Santa Clara University, June 2027
-Seeking 2027 new-grad SWE roles.
 
 NOW
 ---
