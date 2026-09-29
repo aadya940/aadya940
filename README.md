@@ -1,32 +1,25 @@
 ```
 AADYA
 -----
-M.S. Computer Science @ Santa Clara University (grad [June/July] 2027)
-Looking for 2027 new-grad SWE roles: scientific computing, systems, developer tools.
-
+MS CS @ Santa Clara University, June 2027
+Seeking 2027 new-grad SWE roles.
 
 NOW
 ---
-SciPy triage team (https://github.com/scipy/scipy)
-Maintainer, aeon: time-series ML toolkit (https://github.com/aeon-toolkit/aeon)
-Author, scikit-verify: checks numerical Python code against its math
-  (https://github.com/aadya940/scikit-verify, in review at JMLR MLOSS)
+SciPy triage team
+aeon maintainer (time-series ML)
+scikit-verify author (numerical code verification, JMLR MLOSS review)
 
+BEFORE
+------
+Quansight: SciPy internals, SWE Intern
+Unify (YC W23): SWE Intern
+GSoC, NumFOCUS
 
-PREVIOUSLY
-----------
-SWE Intern, Quansight: SciPy internals (interpolation, spline fitting)
-SWE Intern, Unify (YC W23): contributed to ivy (https://github.com/unifyai/ivy)
-Google Summer of Code, NumFOCUS: aeon
+ALSO
+----
+Occasionally contributed to other OSS tools like NumPy etc. 
 
-LANGUAGES
----------
-Python, C, C++
+Python · C · C++
 
-
-OFF-HOURS
----------
-hackathons, soccer, gym, cooking
-
-aadyachinubhai@gmail.com (no marketing pls)
-```
+aadyachinubhai@gmail.com```
