@@ -19,13 +19,6 @@ SWE Intern, Quansight: SciPy internals (interpolation, spline fitting)
 SWE Intern, Unify (YC W23): contributed to ivy (https://github.com/unifyai/ivy)
 Google Summer of Code, NumFOCUS: aeon
 
-
-ALSO
-----
-Contributor to NumPy and Point72/csp
-Paper: [JOSS title] (link)
-
-
 LANGUAGES
 ---------
 Python, C, C++
